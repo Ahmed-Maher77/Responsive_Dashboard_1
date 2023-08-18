@@ -1,4 +1,4 @@
-![Kasper Template Mockup](https://github.com/Ahmed-Maher77/Kasper_Template/assets/112467034/02642cc6-8f74-4502-993c-606482432549)
+![Responsive Dashboard 1](https://github.com/Ahmed-Maher77/Responsive_Dashboard_1/assets/112467034/745c157b-3272-449f-9003-2b0bb9723fa2)
 
 # Responsive Dashboard 1
 Fully Responsive Dashboard using HTML and CSS, Admin Panel
