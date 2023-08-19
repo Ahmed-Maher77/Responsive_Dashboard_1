@@ -42,7 +42,7 @@ a {
 aside {
     width: 88px;
     height: 100vh;
-    padding: 5px;
+    padding: 10px;
     background-color: var(--mainColor);
     color: var(--secondaryColor);
     font-size: 1.2rem;
@@ -62,7 +62,7 @@ aside ul li:first-of-type {
 aside  ul li:first-of-type figure {
     width: 40px;         
     height: 40px;        
-    margin-right: 15px;
+    margin-right: 20px;
     border-radius: 50%;
     border: 3.5px solid #fff;
     overflow: hidden;
