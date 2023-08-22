@@ -50,9 +50,6 @@ aside {
     overflow: hidden;
     position: relative;
 }
-aside:hover {
-    width: 270px;
-}
 aside ul li:first-of-type {
     display: flex;
     gap: 18px;
@@ -238,6 +235,9 @@ footer a[title="About Developer"]:hover {
 /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px){
     
+    aside:hover {
+        width: 270px;
+    }
     /* Start Content */
     content main {
         grid-template-columns: repeat(2, 1fr);
