@@ -4,4 +4,4 @@
 Fully Responsive Dashboard using HTML and CSS, Admin Panel
 
 ##### Used Technologies: HTML/HTML5 - CSS/CSS3 - Responsive Design - Git
-##### Demo: https://ahmed-maher77.github.io/Responsive_Dashboard_1/
+##### Demo (Live): https://ahmed-maher77.github.io/Responsive_Dashboard_1/
